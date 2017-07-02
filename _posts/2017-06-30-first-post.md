@@ -4,4 +4,4 @@ title: "I have a blog!"
 date: 2017-06-30
 ---
 
-Well. Finally got around to putting this website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Well, a blog. I finally got around to putting this website together. It's powered by [Jekyll](http://jekyllrb.com) and I use Markdown to author my posts and the various content and style elements of the site. Not super-easy, but hardly pulling teeth.
