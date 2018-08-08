@@ -7,10 +7,8 @@
 
 body {
     text-align: left;
-    margin: 60px 60px 60px;
-    padding-top: 10px; 
-    padding-left: 20px;
-    padding-right: 20px; 
+    margin: 60px 100px 60px 75px;
+    padding: 0.6em 1em 1em 1em; 
     background-color: #ffffff;
     font: normal 12px helvetica, arial, clean, sans-serif;
     *font-size: small;
