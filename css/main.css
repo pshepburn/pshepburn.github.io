@@ -8,7 +8,9 @@
 body {
     text-align: left;
     margin: 60px auto;
-    padding: 0.6em 1em 1em 1em; 
+    padding-top: 10px; 
+    padding-left: 20px;
+    padding-right: 20px; 
     background-color: #ffffff;
     font: normal 12px helvetica, arial, clean, sans-serif;
     *font-size: small;
