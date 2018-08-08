@@ -1,7 +1,17 @@
-body {
+/*body {
     margin: 60px auto;
     width: 70%;
     font: normal 14px helvetica, arial, clean, sans-serif;
+}
+*/
+
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0.6em 1em 1em 1em; 
+    background-color: #ffffff;
+    font: normal 12px helvetica, arial, clean, sans-serif;
+    *font-size: small;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
